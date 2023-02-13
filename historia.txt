@@ -1,0 +1,3 @@
+Este es un archivo de prueba para versionamiento de git
+
+historia de Cristian aprendiendo git.
