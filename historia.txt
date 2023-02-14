@@ -4,6 +4,4 @@ historia de Cristian aprendiendo git.
 
 Tengo 24 años.
 
-hablemos de su vida
-
-Cambios en maestria
+Esto es una prueba del checkout.
