@@ -16,5 +16,6 @@ En este curso tomado en platzi, se vieron temas como:
 
 ## Commits
 - Commit 1
+- Commit 2
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
