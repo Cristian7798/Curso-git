@@ -15,7 +15,7 @@ En este curso tomado en platzi, se vieron temas como:
 - Prueba 3
 
 ## Commits
-- Commit 1
+- Commit a
 - Commit 2
 - Commit 3
 
