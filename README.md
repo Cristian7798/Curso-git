@@ -14,4 +14,7 @@ En este curso tomado en platzi, se vieron temas como:
 - Prueba 2
 - Prueba 3
 
+## Commits
+- Commit 1
+
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
